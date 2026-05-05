@@ -1,0 +1,10 @@
+{
+    "version-pinned": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "spec-kit": {
+                "version": "v0.8.5"
+            }
+        }
+    }
+}

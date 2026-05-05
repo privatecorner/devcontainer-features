@@ -1,0 +1,13 @@
+{
+    "name": "GitHub Spec Kit Tools",
+    "id": "spec-kit",
+    "version": "1.0.0",
+    "description": "Installs the GitHub Spec Kit Tools",
+    "options": {
+        "version": {
+            "type": "string",
+            "default": "main",
+            "description": "The Spec Kit version to install. Use 'main' to install the latest branch, or a tag like 'v0.8.5'."
+        }
+    }
+}
