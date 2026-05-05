@@ -1,3 +1,4 @@
+
 # Wokwi (wokwi)
 
 Installs the Wokwi CLI and adds the Wokwi VSCode extension
@@ -14,7 +15,13 @@ Installs the Wokwi CLI and adds the Wokwi VSCode extension
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| (none) |  |  |  |
+
+
+## Customizations
+
+### VS Code Extensions
+
+- `wokwi.wokwi-vscode`
 
 
 
